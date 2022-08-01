@@ -1,5 +1,7 @@
 # FZFWZhuZiAYuan-Magisk-Simple
 
+![](https://cdn1.foundertype.com/fontmanage/Public/img/5ec73fe97009a.jpg)
+
 使用[「CJK 字体 Magisk 模块模板 简易版」](https://github.com/lxgw/simple-cjk-font-magisk-module-template)制作的[「方正FW筑紫A圆」](https://www.foundertype.com/index.php/FontInfo/index/id/4981)字体模块。
 
 [字体模板说明](README-lxgw.md)
